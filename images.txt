@@ -1,2 +1,3 @@
 onlyoffice/documentserver:latest
 bluenviron/mediamtx:latest
+lgcshy/mediamtx-ui:latest
